@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Julius+Sans+One">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merienda">
+	<meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/cssfamily=Staatliches">
+	<meta charset="utf-8">
+  
+
+	<title>Engenharia de Software </title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+
+
+</head>
+
+<body>
+
+
+	<h1>
+		<Borda>
+			Engenharia de Software 
+		</Borda>
+	</h1>
+
+	<h2> Ambientes De Desenvolvimento de Software </h2>
+	<img src =""width="85%">
+  
+          <h2><Fonte>Sobre a disciplina: </Fonte></h2>
+  
+  <h3> A disciplina estuda tecnologias e ambientes de desenvolvimento de software, apresentando seus propósitos, elementos e recursos. Estuda as linguagens suportadas por esses ambientes. Realiza atividades práticas de configuração, uso e programação nestes ambientes e tecnologias, por meio do desenvolvimento de um pequeno e simples projeto </h3>
+
+
+<h2><Fonte>Algumas Plataformas que usamos</Fonte></h2>
+ 
+  <div class="gallery">
+  <img src="https://kl113228125.files.wordpress.com/2018/03/blockly-games.jpg"width="600" height="400" >
+  <div class="desc">Blockly</div>
+</div>
+
+<div class="gallery">
+  <img src="https://miro.medium.com/proxy/0*356zWDYXZyGbmQxa." width="600" height="400">
+  <div class="desc">Scratch</div>
+</div>
+
+<div class="gallery">
+  <img src="https://miro.medium.com/max/2820/1*lcVjwQ_KXjoqaOJxXJRWjg.png"width="600" height="400">
+  <div class="desc">Thunkable</div>
+</div>
+
+<div class="gallery">
+  <img src="https://mssorastechnology101.weebly.com/uploads/3/0/9/2/3092183/danceparty-characters_orig.jpg"width="600" height="400">
+  <div class="desc">Code Org</div>
+</div>
+    
+      <h2><Fonte> Como é estudar a disciplina:</Fonte></h2>
+
+  <h3> A disciplina nos permite conhecer diversas plataformas aplicando em variadas linguagens de programação, com aplicações de lógica somados a uma elebaração de efeitos visuais e design. Gerando no aluno uma adaptação muito grande de dominio a multi plataformas. </h3>
+
+
+  
+      
+
+
+      <h2><Fonte> Aprenda a usar algumas plataformas</Fonte></h2>
+
+
+<iframe width="240" src="https://www.youtube.com/embed/eA2zun5SW30?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="240" src="https://youtube.com/embed/7UpuT2rbdJkk?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="240" src="https://youtube.com/embed/RSAoRNEbQeg?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p></p>
+<autor>Aluno: Matheus Das Neves Camargo RA:20156311</autor>
+<p></p><autor>Email: <a href="mailto:matheus.nc2@puc-campinas.edu.br">matheus.nc2@puc-campinas.edu.br</a></autor>
+
+<p id= "primeiro">
+    Veja aqui algumas ferramentas uteis para a disciplina 
+    <a href="https://www.apptuts.net/tutorial/android/ferramentas-para-desenvolvedores/">(Clique aqui!)</a> </p>
+   <p id= "primeiro">
+    Essa disciplina esta presente no curso de Engenharia de Software para saber mais  
+    <a href="https://www.puc-campinas.edu.br/graduacao/engenharia-de-software/">(Clique aqui!)</a> </p>
+     
+  </body>
+</html>

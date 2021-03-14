@@ -1,0 +1,79 @@
+    autor{
+  font-family: "Staatliches";
+  font-size: 20px;
+  color:rgb(23, 202, 106);
+    }
+      h1{ color : rgb(251, 45,125);
+          text-align: center;
+          background-color: with;
+          opacity: 0.9;
+           font-family: "Patua One";
+           font-size: 37px;
+           }
+      
+      h2{ 
+        font-family: "Julius Sans One";
+        font-size: 25px;
+        color :rgb(226, 19, 87);
+        text-align: center;
+        }
+
+      h3{
+        font-family: "Merienda";
+        font-size: 20px;  
+        color :white;
+      }
+      
+      p{
+        color : rgb(255, 255, 255);
+          background-color: with;
+        }
+
+        #primeiro {
+          color :rgb(255, 255, 255);
+        } 
+
+Fonte{
+  font-family: "Julius Sans One";
+        font-size: 25px;  
+  color:rgb(228,33,41);
+     
+}      
+body {
+  background-image: url("https://images.unsplash.com/photo-1590272456521-1bbe160a18ce?ixlib=rb-1.2.1&w=1000&q=80");
+  background-position: center;  
+     }  
+
+ Borda{  
+   border-top-style: double;
+  border-right-style: double;
+  border-bottom-style: solid;
+  border-left-style: double; 
+
+  border-color:rgb(251, 45,125);
+   }    
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+  
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  font-family: "Staatliches";
+  font-size: 20px;
+  text-align: center;
+  color:rgb(23, 202, 106);
+}lign: center;
+}
